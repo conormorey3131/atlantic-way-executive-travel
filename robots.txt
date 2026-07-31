@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /hugh-kelly-executive-travel-v2.html
 
 Sitemap: https://atlanticwayexecutivetravel.ie/sitemap.xml
